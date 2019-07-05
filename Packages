@@ -1,0 +1,49 @@
+Package: com.iimg.pubgbutton
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.iimg.pubgbutton_0.0.2_iphoneos-arm.deb
+Size: 2578
+Installed-Size: 120
+MD5sum: 253df5adc02e94d1cc9452bf77459b6b
+SHA1: 7ee548f56c7484f0b60f90eb4e88f29c22f85b48
+SHA256: c34762cae4ba9335d66336149a8b467abd69f3119ea18259e80a8df961124b12
+Description: An awesome MobileSubstrate tweak!
+Name: PUBGButton
+Author: Mohamed Galal <dpkg9510@gmail.com>
+
+Package: com.reddestdream.minimalhostsblocker
+Version: 7.3
+Section: Tweaks
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Pre-Depends: dpkg (>= 1.13.25-5)
+Conflicts: com.thireus.untrustedhostsblockerexperimental, com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblocker, com.myrepospace.reddestdream.minimal, com.myrepospace.basic.basic
+Filename: ./debs/com.iimg.adblock_7.3_iphoneos-arm.deb
+Size: 5574
+Installed-Size: 120
+MD5sum: 253df5adc02e94d1cc9452bf77459b6b
+SHA1: 7ee548f56c7484f0b60f90eb4e88f29c22f85b48
+SHA256: c34762cae4ba9335d66336149a8b467abd69f3119ea18259e80a8df961124b12
+Description: A Minimal Ad Blocker! ^_^
+Name: Minimal Hosts Blocker
+Author: Mohamed Galal <dpkg9510@gmail.com>
+
+Package: org.cydia.kiimo.pubgmobilenoblocking
+Version: 1.0~full
+Section: Tweaks
+Maintainer: Mohamed Galal <dpkg9510@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.iimg.pubghack_1.0~full_iphoneos-arm.deb
+Size: 1833
+Installed-Size: 964
+MD5sum: 253df5adc02e94d1cc9452bf77459b6b
+SHA1: 7ee548f56c7484f0b60f90eb4e88f29c22f85b48
+SHA256: c34762cae4ba9335d66336149a8b467abd69f3119ea18259e80a8df961124b12
+Name: PUBG HACK NO BLOCKING
+Author: Mohamed Galal <dpkg9510@gmail.com>
+
